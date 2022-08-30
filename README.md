@@ -23,7 +23,7 @@ I'm a software developer undergraduate.
 
 <h3> 🧑‍🤝‍🧑 Contact me!</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/rafael-gon%C3%A7alves-52a146190])
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-gon%C3%A7alves-52a146190)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rafaelgdssantos@gmail.com)
 
 
