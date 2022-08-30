@@ -17,7 +17,7 @@ I'm a software developer undergraduate.
 
 <h3>🌟And my Github Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrsv&exclude_repo=programming_introduction,algorithms_data_structures_exercises&hide=c%2B%2B&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gsantos&exclude_repo=programming_introduction,algorithms_data_structures_exercises&hide=c%2B%2B&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
