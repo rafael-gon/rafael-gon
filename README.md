@@ -6,12 +6,12 @@ I'm a software developer undergraduate.
 
 <h3> Here are my main skills</h3>
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/scss-323330?style=for-the-badge&logo=scss&logoColor=f2f2f8)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![image](https://img.shields.io/badge/scss-323330?style=for-the-badge)
 
 <h3> And my Github Stats</h3>
 
