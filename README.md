@@ -24,6 +24,9 @@ function App(){
 }
 export default App;
 ```
+
+<br />
+
 <img src="./img/street.gif" align="right">
 
 ## 👩‍💻 Skills
