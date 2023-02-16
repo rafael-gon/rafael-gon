@@ -1,35 +1,57 @@
-# Hey there, I'm Rafael
+<img src="./img/mario.gif">
 
+<img src="./img/preview.png" align="right">
 
-### I'm a software developer undergraduate and here are my main skills:
+```tsx
+import React from 'react';
 
-![image](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=ded7ea)
-![image](https://img.shields.io/badge/JavaScript-1d1626?style=for-the-badge&logo=JavaScript&logoColor=ded7ea)
-![image](https://img.shields.io/badge/TypeScript-1d1626?style=for-the-badge&logo=TypeScript&logoColor=ded7ea)
-![image](https://img.shields.io/badge/react_native-1d1626?style=for-the-badge&logo=react&logoColor=ded7ea)
-![image](https://img.shields.io/badge/.net-1d1626?style=for-the-badge&logo=dotnet&logoColor=ded7ea)
-![image](https://img.shields.io/badge/mysql-1d1626?style=for-the-badge&logo=mysql&logoColor=ded7ea)
-![image](https://img.shields.io/badge/mongodb-1d1626?style=for-the-badge&logo=mongodb&logoColor=ded7ea)
-![image](https://img.shields.io/badge/git-1d1626?style=for-the-badge&logo=git&logoColor=ded7ea)
-![image](https://img.shields.io/badge/linux-1d1626?style=for-the-badge&logo=linux&logoColor=ded7ea)
-![image](https://img.shields.io/badge/html-1d1626?style=for-the-badge&logo=html5&logoColor=ded7ea)
-![image](https://img.shields.io/badge/css-1d1626?style=for-the-badge&logo=css3&logoColor=ded7ea)
-![image](https://img.shields.io/badge/Java-1d1626?style=for-the-badge&logo=CoffeeScript&logoColor=ded7ea)
-#
+let Developer = {
+  Name: "Rafael",
+  Age: 23,
+  Nacionality: "Brazil",
+  Work: "FullStack"
+}
 
-### And my Github Stats:
+function App(){
+  return(
+    <div>
+      <h1>Hello, I am {Developer.Name}</h1>
+      <p>{Developer.Age} years old</p>
+      <h2> I'm a {Developer.Work} developer</h2>
+      <strong>from {Developer.Nacionality}</strong>
+    </div>
+  )
+}
+export default App;
+```
+<img src="./img/street.gif" align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gon&exclude_repo=programming_introduction,algorithms_data_structures_exercises&hide=c%2B%2B&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-#
- 
+## 👩‍💻 Skills
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/React_js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Contact:
+## 🌐 DataBases
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-gon%C3%A7alves-52a146190)
+## 💻 Tools
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+![image](https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+## ✉️ Contact:
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rafael-gonçalves-52a146190)
 [<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=Minutemailer&logoColor=white" />](mailto:contato@rafaelgoncalves.tech.com)
-
-#
-
-### Support:
-
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="50"/>](https://www.buymeacoffee.com/rafaelg)
