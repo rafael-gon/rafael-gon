@@ -26,7 +26,7 @@ export default App;
 ```
 <br />
 
-<img src="./img/street.gif" align="right">
+<img src="./img/street.gif" align="right" height="550px">
 
 ## 👩‍💻 Skills
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,9 +52,3 @@ export default App;
 ![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![image](https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-## ✉️ Contact:
-
-<a href="https://linkedin.com/in/rafael-gon" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafael-gon"/></a>
-
-<a href="mailto:rafaelgon.tech@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=Minutemailer&logoColor=white" alt="rafael-gon"/></a>
