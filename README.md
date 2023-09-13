@@ -55,5 +55,5 @@ export default App;
 
 ## ✉️ Contact:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rafael-gonçalves-52a146190)
-[<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=Minutemailer&logoColor=white" />](mailto:contato@rafaelgoncalves.tech.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rafael-gon)
+[<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=Minutemailer&logoColor=white" />](mailto:rafaelgon.tech@gmail.com)
