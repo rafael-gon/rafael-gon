@@ -3,11 +3,10 @@
 <img src="./img/preview.png" align="right">
 
 ```tsx
-import React from 'react';
 
 let Developer = {
   Name: "Rafael",
-  Age: 23,
+  Age: 26,
   Nacionality: "Brazil",
   Work: "FullStack"
 }
@@ -15,6 +14,7 @@ let Developer = {
 function App(){
   return(
     <div>
+      <img src="./Icon.png" alt="" />
       <h1>Hello, I am {Developer.Name}</h1>
       <p>{Developer.Age} years old</p>
       <h2> I'm a {Developer.Work} developer</h2>
@@ -30,7 +30,6 @@ export default App;
 
 ## 👩‍💻 Skills
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,8 +46,6 @@ export default App;
 ## 💻 Tools
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![image](https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
